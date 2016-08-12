@@ -1,0 +1,16 @@
+{
+  "mongo":{
+    "\\d(.*?) data":"表名",
+    "com.puhui.df.query.mongo.Query(.*?)执行时间:":"表名",
+    "com.puhui.df.model.mysql.(.*?)--":"表名",
+    "执行时间:(.*?)\\w":"报警时间",
+    "data : id(.*?),":"报警字段1的值",
+    "data : id = (.*?),":"报警字段1的值",
+    "updateTime(.*?)\\w":"报警字段2的值"
+  },
+  "neo4j":{
+    "报警时间":"执行时间:(.*?)neo4j rest api",
+    "表名":"com.puhui.df.model.mysql.(.*?)执行时间",
+    "报警字段1的值":"applyNo = (.*?)在neo4j中没有数据"
+  }
+}
