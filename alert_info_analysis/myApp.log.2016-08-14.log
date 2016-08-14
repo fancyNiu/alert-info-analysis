@@ -1,0 +1,1038 @@
+2016-08-14 00:16:19.749 [main] INFO  com.puhuifinance.huisou.df.service.MailService - load the config file
+2016-08-14 00:16:19.839 [main] INFO  com.puhuifinance.huisou.df.service.MailService - connect to email......
+2016-08-14 00:16:19.990 [main] INFO  com.puhuifinance.huisou.df.service.MailService - connect to email success
+2016-08-14 00:16:19.990 [main] INFO  com.puhuifinance.huisou.df.service.MailService - Open the INBOX
+2016-08-14 00:16:19.995 [main] INFO  com.puhuifinance.huisou.df.service.MailService - the INBOX is open
+2016-08-14 00:16:24.906 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:21 data : id5406854, updateTime2016-08-09 12:02:35 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:21 data : id6950868, updateTime2016-08-09 12:02:49 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:21 data : id1839131, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:22 data : id131329, updateTime2016-08-09 12:02:44 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:22 data : id273371, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:22 data : id3150546, updateTime2016-08-09 12:02:41 mongo 没有数据
+执行时间:2016-08-09 12:04:22LendRequest data : id = 392079, updateTime2016-08-09 12:02:36, _id :392079$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:22address data : id1570963, updateTime2016-08-09 12:03:11 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:22 data : id5406857, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:22 data : id6950902, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:22 data : id1839132, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:23 data : id290959, updateTime2016-08-09 12:02:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:23 data : id270623, updateTime2016-08-09 12:02:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:23 data : id3150547, updateTime2016-08-09 12:02:41 mongo 没有数据
+执行时间:2016-08-09 12:04:23LendRequest data : id = 394108, updateTime2016-08-09 12:02:39, _id :394108$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:23address data : id1570964, updateTime2016-08-09 12:03:11 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:23 data : id5406858, updateTime2016-08-09 12:02:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:23 data : id6950907, updateTime2016-08-09 12:02:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:23 data : id1843959, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:24 data : id631833, updateTime2016-08-09 12:02:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:24 data : id274418, updateTime2016-08-09 12:02:42 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:24 data : id3150548, updateTime2016-08-09 12:02:41 mongo 没有数据
+执行时间:2016-08-09 12:04:24LendRequest data : id = 205419, updateTime2016-08-09 12:02:42, _id :205419$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:24 data : id5406866, updateTime2016-08-09 12:02:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:24 data : id6950909, updateTime2016-08-09 12:03:03 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:24 data : id1843960, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:25 data : id275327, updateTime2016-08-09 12:02:45 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:25 data : id732572, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:25 data : id3150550, updateTime2016-08-09 12:03:10 mongo 没有数据
+执行时间:2016-08-09 12:04:25LendRequest data : id = 390935, updateTime2016-08-09 12:02:45, _id :390935$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:25 data : id5406868, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:25 data : id6950917, updateTime2016-08-09 12:02:57 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:25 data : id1843961, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:26 data : id272845, updateTime2016-08-09 12:02:49 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:26 data : id877329, updateTime2016-08-09 12:02:58 mongo 没有数据
+执行时间:2016-08-09 12:04:26LendRequest data : id = 395565, updateTime2016-08-09 12:02:48, _id :395565$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:26 data : id5406869, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:26 data : id6950930, updateTime2016-08-09 12:03:02 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:26 data : id1843962, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:27 data : id268559, updateTime2016-08-09 12:02:51 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:27 data : id925875, updateTime2016-08-09 12:03:11 mongo 没有数据
+执行时间:2016-08-09 12:04:27LendRequest data : id = 389757, updateTime2016-08-09 12:02:51, _id :389757$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:27 data : id5406870, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:27 data : id6950951, updateTime2016-08-09 12:02:53 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:27 data : id1841810, updateTime2016-08-09 12:02:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:28 data : id276869, updateTime2016-08-09 12:03:09 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:28 data : id1106360, updateTime2016-08-09 12:02:57 mongo 没有数据
+执行时间:2016-08-09 12:04:28LendRequest data : id = 396315, updateTime2016-08-09 12:03:02, _id :396315$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:28 data : id6950967, updateTime2016-08-09 12:03:05 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:28 data : id1843963, updateTime2016-08-09 12:03:11 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:29 data : id1266541, updateTime2016-08-09 12:03:10 mongo 没有数据
+执行时间:2016-08-09 12:04:29LendRequest data : id = 396495, updateTime2016-08-09 12:03:11, _id :396495$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryUserInfo执行时间:2016-08-09 14:31:12 data : id1395567, updateTime2016-08-09 14:29:30 mongo 没有数据
+
+2016-08-14 00:16:25.341 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:21address data : id1570962, updateTime2016-08-09 12:03:02 AddressInfo mongo 没有数据
+
+2016-08-14 00:16:25.373 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.puhui.DecisionYsp--> com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:11 data : id333589, updateTime2016-08-09 12:02:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:11 data : id275562, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:11address data : id1570955, updateTime2016-08-09 12:02:23 AddressInfo mongo 没有数据
+执行时间:2016-08-09 12:04:11LendRequest data : id = 394681, updateTime2016-08-09 12:02:11, _id :394681$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:11 data : id415342, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:11 data : id1843239, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:12 data : id850690, updateTime2016-08-09 12:02:20 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:12 data : id414779, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.query.mongo.QueryRiskAdditionalInfo执行时间:2016-08-09 12:04:12 data : id1378063, updateTime2016-08-09 12:02:19 mongo 没有数据
+执行时间:2016-08-09 12:04:12P_load data : id1351062 , applyNo : 301201608090011273, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:12 data : id1725050, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserInfo执行时间:2016-08-09 12:04:12 data : id1394288, updateTime2016-08-09 12:02:15 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:12 data : id272772, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:12address data : id1570433, updateTime2016-08-09 12:02:34 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:12 data : id3150536, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:12 data : id360703, updateTime2016-08-09 12:02:12 mongo 没有数据
+执行时间:2016-08-09 12:04:12LendRequest data : id = 394116, updateTime2016-08-09 12:02:12, _id :394116$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:12 data : id415343, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:12 data : id5406837, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:12 data : id1843240, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:13 data : id850691, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:13 data : id414931, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryRiskAdditionalInfo执行时间:2016-08-09 12:04:13 data : id1378394, updateTime2016-08-09 12:02:42 mongo 没有数据
+执行时间:2016-08-09 12:04:13P_load data : id1351068 , applyNo : 301201608090011090, updateTime2016-08-09 12:02:35 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:13 data : id1725067, updateTime2016-08-09 12:02:07 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:13 data : id276333, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:13address data : id1570956, updateTime2016-08-09 12:02:38 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:13 data : id3150537, updateTime2016-08-09 12:02:16 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:13 data : id360701, updateTime2016-08-09 12:02:22 mongo 没有数据
+执行时间:2016-08-09 12:04:13LendRequest data : id = 394367, updateTime2016-08-09 12:02:14, _id :394367$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:13 data : id415344, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:13 data : id5406838, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:13 data : id1843241, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:14 data : id850692, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:14 data : id414932, updateTime2016-08-09 12:02:54 mongo 没有数据
+执行时间:2016-08-09 12:04:14P_load data : id1351064 , applyNo : 301201608090011037, updateTime2016-08-09 12:02:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:14 data : id278314, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:14address data : id1570957, updateTime2016-08-09 12:02:38 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:14 data : id3150538, updateTime2016-08-09 12:02:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:14 data : id360705, updateTime2016-08-09 12:03:11 mongo 没有数据
+执行时间:2016-08-09 12:04:14LendRequest data : id = 392523, updateTime2016-08-09 12:02:15, _id :392523$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:14 data : id310761, updateTime2016-08-09 12:02:32 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:14 data : id5406839, updateTime2016-08-09 12:02:16 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:14 data : id1843242, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:15 data : id850693, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:15 data : id414529, updateTime2016-08-09 12:02:57 mongo 没有数据
+执行时间:2016-08-09 12:04:15P_load data : id1351069 , applyNo : 103201608090001150, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:15 data : id277520, updateTime2016-08-09 12:02:23 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:15address data : id1570958, updateTime2016-08-09 12:02:38 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:15 data : id3150539, updateTime2016-08-09 12:02:22 mongo 没有数据
+执行时间:2016-08-09 12:04:15LendRequest data : id = 393069, updateTime2016-08-09 12:02:17, _id :393069$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:15 data : id310806, updateTime2016-08-09 12:03:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:15 data : id5406841, updateTime2016-08-09 12:02:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:15 data : id1843955, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:16 data : id850694, updateTime2016-08-09 12:02:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:16 data : id414753, updateTime2016-08-09 12:03:02 mongo 没有数据
+执行时间:2016-08-09 12:04:16P_load data : id1351070 , applyNo : 301201608090011376, updateTime2016-08-09 12:02:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:16 data : id274374, updateTime2016-08-09 12:02:23 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:16address data : id1570959, updateTime2016-08-09 12:02:54 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:16 data : id3150540, updateTime2016-08-09 12:02:25 mongo 没有数据
+执行时间:2016-08-09 12:04:16LendRequest data : id = 390949, updateTime2016-08-09 12:02:23, _id :390949$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:16 data : id5406846, updateTime2016-08-09 12:02:25 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:16 data : id1843956, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:17 data : id23726, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:17 data : id850695, updateTime2016-08-09 12:03:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:17 data : id414933, updateTime2016-08-09 12:03:11 mongo 没有数据
+执行时间:2016-08-09 12:04:17P_load data : id1350951 , applyNo : 301201608090010615, updateTime2016-08-09 12:03:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:17 data : id259912, updateTime2016-08-09 12:02:25 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:17address data : id1570960, updateTime2016-08-09 12:02:54 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:17 data : id3150541, updateTime2016-08-09 12:02:31 mongo 没有数据
+执行时间:2016-08-09 12:04:17LendRequest data : id = 380509, updateTime2016-08-09 12:02:26, _id :380509$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:17 data : id5406849, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:17 data : id6950624, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:17 data : id1843957, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:18 data : id46110, updateTime2016-08-09 12:02:43 mongo 没有数据
+执行时间:2016-08-09 12:04:18P_load data : id1351038 , applyNo : 301201608090011096, updateTime2016-08-09 12:03:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:18 data : id274896, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:18address data : id1569524, updateTime2016-08-09 12:02:57 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:18 data : id3150542, updateTime2016-08-09 12:02:31 mongo 没有数据
+执行时间:2016-08-09 12:04:18LendRequest data : id = 393592, updateTime2016-08-09 12:02:27, _id :393592$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:18 data : id5406850, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:18 data : id6950631, updateTime2016-08-09 12:02:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:18 data : id1843958, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:19 data : id76411, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:19 data : id181879, updateTime2016-08-09 12:02:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:19address data : id1570961, updateTime2016-08-09 12:02:57 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:19 data : id3150543, updateTime2016-08-09 12:02:35 mongo 没有数据
+执行时间:2016-08-09 12:04:19LendRequest data : id = 391789, updateTime2016-08-09 12:02:28, _id :391789$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:19 data : id5406851, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:19 data : id6950747, updateTime2016-08-09 12:03:08 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:19 data : id1839129, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:20 data : id119425, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:20 data : id271178, updateTime2016-08-09 12:02:30 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:20address data : id1570278, updateTime2016-08-09 12:03:02 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:20 data : id3150544, updateTime2016-08-09 12:02:38 mongo 没有数据
+执行时间:2016-08-09 12:04:20LendRequest data : id = 390663, updateTime2016-08-09 12:02:31, _id :390663$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:20 data : id5406852, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:20 data : id6950839, updateTime2016-08-09 12:03:02 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:20 data : id1839130, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:21 data : id121291, updateTime2016-08-09 12:02:41 mongo 没有数据
+
+2016-08-14 00:16:25.820 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:11 data : id1724966, updateTime2016-08-09 12:01:59 mongo 没有数据
+
+2016-08-14 00:16:26.052 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:59 data : id4372758, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:00 data : id5406829, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:00 data : id1700710, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:00 data : id4377708, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:01 data : id5406830, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:01 data : id1710280, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:01 data : id4377984, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:02 data : id5406831, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:02 data : id1710915, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:02 data : id4378104, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:03 data : id5406832, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:03 data : id1711236, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:03 data : id4944295, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:04 data : id5406833, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:04 data : id1718529, updateTime2016-08-09 12:01:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:04 data : id4947337, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:05 data : id5406834, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:05 data : id1720688, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:05 data : id4948837, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:06 data : id5406835, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:06 data : id1724428, updateTime2016-08-09 12:01:21 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:06 data : id4951267, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:07 data : id5406836, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:07 data : id1724625, updateTime2016-08-09 12:02:06 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:08 data : id1724745, updateTime2016-08-09 12:01:53 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:09 data : id1724769, updateTime2016-08-09 12:02:10 mongo 没有数据
+
+2016-08-14 00:16:26.484 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:59 data : id5406828, updateTime2016-08-09 12:02:05 mongo 没有数据
+
+2016-08-14 00:16:26.712 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:49 data : id3848282, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:50 data : id1613095, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:50 data : id5406819, updateTime2016-08-09 12:02:01 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:50 data : id3848792, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:51 data : id1616924, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:51 data : id5406820, updateTime2016-08-09 12:02:01 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:51 data : id3849044, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:52 data : id1621090, updateTime2016-08-09 12:01:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:52 data : id5406821, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:52 data : id3849512, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:53 data : id1635651, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:53 data : id5406822, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:53 data : id3849956, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:54 data : id1648157, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:54 data : id5406823, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:54 data : id3850316, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:55 data : id1666991, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:55 data : id5406824, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:55 data : id3860162, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:56 data : id1682635, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:56 data : id5406825, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:56 data : id3860690, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:57 data : id1688251, updateTime2016-08-09 12:01:24 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:57 data : id5406826, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:57 data : id3860954, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:58 data : id1695083, updateTime2016-08-09 12:01:48 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:58 data : id5406827, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:58 data : id3861614, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:59 data : id1699828, updateTime2016-08-09 12:02:07 mongo 没有数据
+
+2016-08-14 00:16:26.937 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:40 data : id6950925, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:40 data : id5406809, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:40 data : id1368798, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:40 data : id3844712, updateTime2016-08-09 12:01:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:41 data : id6950928, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:41 data : id5406810, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:41 data : id1383056, updateTime2016-08-09 12:01:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:41 data : id3845132, updateTime2016-08-09 12:01:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:42 data : id6950932, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:42 data : id5406811, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:42 data : id1399988, updateTime2016-08-09 12:01:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:42 data : id3845768, updateTime2016-08-09 12:01:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:43 data : id6950933, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:43 data : id5406812, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:43 data : id1453515, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:43 data : id3846200, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:44 data : id6950934, updateTime2016-08-09 12:01:48 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:44 data : id5406813, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:44 data : id1464278, updateTime2016-08-09 12:01:51 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:44 data : id3846344, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:45 data : id6950939, updateTime2016-08-09 12:02:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:45 data : id5406814, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:45 data : id1476275, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:45 data : id3846764, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:46 data : id6950940, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:46 data : id5406815, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:46 data : id1488648, updateTime2016-08-09 12:02:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:46 data : id3846968, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:47 data : id6950943, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:47 data : id5406816, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:47 data : id1532025, updateTime2016-08-09 12:01:42 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:47 data : id3847460, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:48 data : id6950949, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:48 data : id5406817, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:48 data : id1536017, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:48 data : id3847832, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:49 data : id6950953, updateTime2016-08-09 12:02:06 mongo 没有数据
+
+2016-08-14 00:16:27.367 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:49 data : id5406818, updateTime2016-08-09 12:01:59 mongo 没有数据
+
+2016-08-14 00:16:27.591 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:39 data : id3844430, updateTime2016-08-09 12:01:04 mongo 没有数据
+
+2016-08-14 00:16:27.824 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:29 data : id3150529, updateTime2016-08-09 12:02:03 mongo 没有数据
+执行时间:2016-08-09 12:03:29LendRequest data : id = 390945, updateTime2016-08-09 12:02:06, _id :390945$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:29 data : id6950903, updateTime2016-08-09 12:01:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:29 data : id5406798, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:29 data : id1843833, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:30 data : id1032334, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:30 data : id3841298, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:30 data : id3150530, updateTime2016-08-09 12:02:04 mongo 没有数据
+执行时间:2016-08-09 12:03:30LendRequest data : id = 394681, updateTime2016-08-09 12:02:11, _id :394681$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:30 data : id6950906, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:30 data : id5406799, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:30 data : id1843834, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:31 data : id1038083, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:31 data : id3841682, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:31 data : id3150531, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:31 data : id6950911, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:31 data : id5406800, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:31 data : id1843951, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:32 data : id1043309, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:32 data : id3842174, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:32 data : id3150532, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:32 data : id6950912, updateTime2016-08-09 12:01:56 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:32 data : id5406801, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:32 data : id1843952, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:33 data : id1068646, updateTime2016-08-09 12:01:12 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:33 data : id3842474, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:33 data : id3150533, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:33 data : id6950913, updateTime2016-08-09 12:01:20 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:33 data : id5406802, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:33 data : id1843953, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:34 data : id1104504, updateTime2016-08-09 12:01:41 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:34 data : id3842696, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:34 data : id3150534, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:34 data : id6950914, updateTime2016-08-09 12:01:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:34 data : id5406803, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:34 data : id1843954, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:35 data : id1191872, updateTime2016-08-09 12:01:15 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:35 data : id3843068, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:35 data : id3150535, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:35 data : id6950915, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:35 data : id5406804, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:35 data : id1841726, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:36 data : id1260054, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:36 data : id3843512, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:36 data : id6950916, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:36 data : id5406805, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:36 data : id1841727, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:37 data : id1276605, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:37 data : id3843908, updateTime2016-08-09 12:01:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:37 data : id6950918, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:37 data : id5406806, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:37 data : id1841728, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:38 data : id1319510, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:38 data : id3844136, updateTime2016-08-09 12:01:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:38 data : id6950919, updateTime2016-08-09 12:01:42 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:38 data : id5406807, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:38 data : id1841729, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:39 data : id1338892, updateTime2016-08-09 12:01:53 mongo 没有数据
+
+2016-08-14 00:16:28.255 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:28 data : id3840614, updateTime2016-08-09 12:01:02 mongo 没有数据
+
+2016-08-14 00:16:28.487 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:19 data : id190957, updateTime2016-08-09 12:01:18 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:19 data : id6950766, updateTime2016-08-09 12:01:51 mongo 没有数据
+执行时间:2016-08-09 12:03:19LendRequest data : id = 393671, updateTime2016-08-09 12:01:37, _id :393671$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:19 data : id3150519, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:19 data : id271610, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:19address data : id1570951, updateTime2016-08-09 12:01:39 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:19 data : id5406788, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:19 data : id1843943, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:19 data : id3472446, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:20P_load data : id1351066 , applyNo : 301201608090011308, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:20 data : id505998, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:20 data : id6950779, updateTime2016-08-09 12:01:52 mongo 没有数据
+执行时间:2016-08-09 12:03:20LendRequest data : id = 395678, updateTime2016-08-09 12:01:37, _id :395678$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:20 data : id3150520, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:20 data : id275562, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:20address data : id1570952, updateTime2016-08-09 12:01:39 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:20 data : id5406789, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:20 data : id1843944, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:20 data : id3472578, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:21P_load data : id1351067 , applyNo : 301201608090011238, updateTime2016-08-09 12:01:52 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:21 data : id508247, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:21 data : id6950801, updateTime2016-08-09 12:01:50 mongo 没有数据
+执行时间:2016-08-09 12:03:21LendRequest data : id = 392526, updateTime2016-08-09 12:01:43, _id :392526$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:21 data : id3150521, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:21address data : id1570953, updateTime2016-08-09 12:02:02 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:21 data : id5406790, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:21 data : id1843945, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:21 data : id3838550, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:22P_load data : id1351056 , applyNo : 301201608090011244, updateTime2016-08-09 12:02:00 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:22 data : id556479, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:22 data : id6950814, updateTime2016-08-09 12:01:15 mongo 没有数据
+执行时间:2016-08-09 12:03:22LendRequest data : id = 394789, updateTime2016-08-09 12:01:43, _id :394789$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:22 data : id3150522, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:22address data : id1570954, updateTime2016-08-09 12:02:02 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:22 data : id5406791, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:22 data : id1843946, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:22 data : id3838682, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:23P_load data : id1351057 , applyNo : 301201608090011255, updateTime2016-08-09 12:02:00 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:23 data : id650384, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:23 data : id6950846, updateTime2016-08-09 12:01:12 mongo 没有数据
+执行时间:2016-08-09 12:03:23LendRequest data : id = 394056, updateTime2016-08-09 12:01:44, _id :394056$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:23 data : id3150523, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:23 data : id5406792, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:23 data : id1843947, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:23 data : id3839138, updateTime2016-08-09 12:01:02 mongo 没有数据
+执行时间:2016-08-09 12:03:24P_load data : id1351063 , applyNo : 306201608090000032, updateTime2016-08-09 12:02:00 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:24 data : id731152, updateTime2016-08-09 12:01:22 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:24 data : id6950849, updateTime2016-08-09 12:01:46 mongo 没有数据
+执行时间:2016-08-09 12:03:24LendRequest data : id = 394352, updateTime2016-08-09 12:01:45, _id :394352$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:24 data : id3150524, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:24 data : id5406793, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:24 data : id1843948, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:24 data : id3839294, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:25 data : id767241, updateTime2016-08-09 12:01:48 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:25 data : id6950863, updateTime2016-08-09 12:02:02 mongo 没有数据
+执行时间:2016-08-09 12:03:25LendRequest data : id = 396469, updateTime2016-08-09 12:01:45, _id :396469$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:25 data : id3150525, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:25 data : id5406794, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:25 data : id1843949, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:25 data : id3839570, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:26 data : id801031, updateTime2016-08-09 12:01:12 mongo 没有数据
+执行时间:2016-08-09 12:03:26LendRequest data : id = 396454, updateTime2016-08-09 12:01:54, _id :396454$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:26 data : id6950886, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:26 data : id3150526, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:26 data : id5406795, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:26 data : id1843950, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:26 data : id3839978, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:27 data : id811061, updateTime2016-08-09 12:01:45 mongo 没有数据
+执行时间:2016-08-09 12:03:27LendRequest data : id = 378729, updateTime2016-08-09 12:02:04, _id :378729$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:27 data : id6950889, updateTime2016-08-09 12:01:55 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:27 data : id3150527, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:27 data : id5406796, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:27 data : id1843831, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:27 data : id3840338, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:28 data : id969812, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:28 data : id3150528, updateTime2016-08-09 12:02:01 mongo 没有数据
+执行时间:2016-08-09 12:03:28LendRequest data : id = 390144, updateTime2016-08-09 12:02:06, _id :390144$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:28 data : id6950901, updateTime2016-08-09 12:01:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:28 data : id5406797, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:28 data : id1843832, updateTime2016-08-09 12:01:46 mongo 没有数据
+
+2016-08-14 00:16:28.918 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:18 data : id3472338, updateTime2016-08-09 12:01:01 mongo 没有数据
+
+2016-08-14 00:16:29.148 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:09 data : id3125662, updateTime2016-08-09 12:01:00 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:10 data : id3126130, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:11 data : id414765, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.query.mongo.QueryRiskAdditionalInfo执行时间:2016-08-09 12:03:11 data : id1378062, updateTime2016-08-09 12:01:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.DecisionYsp--> com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:11 data : id333587, updateTime2016-08-09 12:01:22 mongo 没有数据
+执行时间:2016-08-09 12:03:11LendRequest data : id = 396010, updateTime2016-08-09 12:01:16, _id :396010$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:11 data : id3150511, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:11 data : id276385, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:11address data : id1570325, updateTime2016-08-09 12:01:16 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserInfo执行时间:2016-08-09 12:03:11 data : id1394285, updateTime2016-08-09 12:01:18 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:11 data : id3126610, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:11 data : id1843095, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:12 data : id414734, updateTime2016-08-09 12:01:29 mongo 没有数据
+执行时间:2016-08-09 12:03:12LendRequest data : id = 396327, updateTime2016-08-09 12:01:16, _id :396327$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.DecisionYsp--> com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:12 data : id333588, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:12 data : id277870, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:12 data : id3150512, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:12address data : id1570945, updateTime2016-08-09 12:01:16 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:12 data : id5406781, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:12 data : id360702, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:12 data : id3126994, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:12P_load data : id1347864 , applyNo : 102201608090087480, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:12 data : id415340, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:12 data : id1843096, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:13 data : id7599, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:13 data : id414928, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:13 data : id310803, updateTime2016-08-09 12:01:53 mongo 没有数据
+执行时间:2016-08-09 12:03:13LendRequest data : id = 396170, updateTime2016-08-09 12:01:23, _id :396170$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:13 data : id278312, updateTime2016-08-09 12:01:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:13 data : id3150513, updateTime2016-08-09 12:01:18 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:13address data : id1570946, updateTime2016-08-09 12:01:22 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:13 data : id849567, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:13 data : id5406782, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:13 data : id360704, updateTime2016-08-09 12:01:55 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:13 data : id3127132, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:13P_load data : id1351058 , applyNo : 301201608090010717, updateTime2016-08-09 12:01:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:13 data : id415341, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:13 data : id1843097, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:14 data : id86297, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:14 data : id414929, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:14 data : id310805, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskCompany-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:14 data : id = 549831, updateTime = 2016-08-09 12:01:13 mongo 没有数据
+执行时间:2016-08-09 12:03:14LendRequest data : id = 396373, updateTime2016-08-09 12:01:23, _id :396373$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:14 data : id3150514, updateTime2016-08-09 12:01:22 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:14 data : id277186, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:14address data : id1570210, updateTime2016-08-09 12:01:29 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:14 data : id850684, updateTime2016-08-09 12:01:24 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:14 data : id5406783, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:14 data : id3127600, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:14P_load data : id1350517 , applyNo : 301201608090009381, updateTime2016-08-09 12:01:22 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:14 data : id415342, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:14 data : id1843098, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:15 data : id104667, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:15 data : id414930, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskCompany-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:15 data : id = 549832, updateTime = 2016-08-09 12:01:19 mongo 没有数据
+执行时间:2016-08-09 12:03:15LendRequest data : id = 388071, updateTime2016-08-09 12:01:24, _id :388071$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:15 data : id3150515, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:15 data : id276299, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:15address data : id1570947, updateTime2016-08-09 12:01:29 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:15 data : id850686, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:15 data : id5406784, updateTime2016-08-09 12:01:13 mongo 没有数据
+执行时间:2016-08-09 12:03:15P_load data : id1350876 , applyNo : 301201608090010172, updateTime2016-08-09 12:01:25 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:15 data : id3467778, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:15 data : id1842899, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:16 data : id118589, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:16 data : id6950578, updateTime2016-08-09 12:01:26 mongo 没有数据
+执行时间:2016-08-09 12:03:16LendRequest data : id = 395103, updateTime2016-08-09 12:01:28, _id :395103$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:16 data : id3150516, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:16 data : id278313, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:16address data : id1570948, updateTime2016-08-09 12:01:30 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:16 data : id850687, updateTime2016-08-09 12:01:19 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:16 data : id5406785, updateTime2016-08-09 12:01:18 mongo 没有数据
+执行时间:2016-08-09 12:03:16P_load data : id1351065 , applyNo : 301201608090011159, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:16 data : id3467892, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:16 data : id1842900, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:17 data : id147800, updateTime2016-08-09 12:01:15 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:17 data : id6950625, updateTime2016-08-09 12:01:25 mongo 没有数据
+执行时间:2016-08-09 12:03:17LendRequest data : id = 396296, updateTime2016-08-09 12:01:29, _id :396296$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:17 data : id3150517, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:17 data : id273733, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:17address data : id1570949, updateTime2016-08-09 12:01:30 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:17 data : id850688, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:17 data : id5406786, updateTime2016-08-09 12:01:22 mongo 没有数据
+执行时间:2016-08-09 12:03:17P_load data : id1351053 , applyNo : 301201608090011241, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:17 data : id3472230, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:17 data : id1842901, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:18 data : id176351, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:18 data : id6950700, updateTime2016-08-09 12:01:28 mongo 没有数据
+执行时间:2016-08-09 12:03:18LendRequest data : id = 396490, updateTime2016-08-09 12:01:30, _id :396490$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:18 data : id258568, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:18 data : id3150518, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:18address data : id1570950, updateTime2016-08-09 12:01:37 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:18 data : id850689, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:18 data : id5406787, updateTime2016-08-09 12:01:22 mongo 没有数据
+执行时间:2016-08-09 12:03:18P_load data : id1350943 , applyNo : 301201608090010604, updateTime2016-08-09 12:01:39 mongo 没有数据
+
+2016-08-14 00:16:29.580 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:08 data : id3125242, updateTime2016-08-09 12:01:00 mongo 没有数据
+
+2016-08-14 00:16:29.807 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:02:57 data : id3116272, updateTime2016-08-09 12:00:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:02:58 data : id3116704, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:02:59 data : id3116848, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:00 data : id3117088, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:01 data : id3117370, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:02 data : id3117688, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:04 data : id3121624, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:05 data : id3121840, updateTime2016-08-09 12:01:00 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:06 data : id3122008, updateTime2016-08-09 12:01:00 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:07 data : id3124420, updateTime2016-08-09 12:01:00 mongo 没有数据
+
+2016-08-14 00:20:14.859 [main] INFO  com.puhuifinance.huisou.df.service.MailService - message recieveing is finished
+2016-08-14 00:20:26.881 [main] INFO  com.puhuifinance.huisou.df.service.MailService - load the config file
+2016-08-14 00:20:26.980 [main] INFO  com.puhuifinance.huisou.df.service.MailService - connect to email......
+2016-08-14 00:20:27.031 [main] INFO  com.puhuifinance.huisou.df.service.MailService - connect to email success
+2016-08-14 00:20:27.031 [main] INFO  com.puhuifinance.huisou.df.service.MailService - Open the INBOX
+2016-08-14 00:20:27.038 [main] INFO  com.puhuifinance.huisou.df.service.MailService - the INBOX is open
+2016-08-14 00:20:28.550 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:21 data : id5406854, updateTime2016-08-09 12:02:35 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:21 data : id6950868, updateTime2016-08-09 12:02:49 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:21 data : id1839131, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:22 data : id131329, updateTime2016-08-09 12:02:44 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:22 data : id273371, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:22 data : id3150546, updateTime2016-08-09 12:02:41 mongo 没有数据
+执行时间:2016-08-09 12:04:22LendRequest data : id = 392079, updateTime2016-08-09 12:02:36, _id :392079$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:22address data : id1570963, updateTime2016-08-09 12:03:11 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:22 data : id5406857, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:22 data : id6950902, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:22 data : id1839132, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:23 data : id290959, updateTime2016-08-09 12:02:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:23 data : id270623, updateTime2016-08-09 12:02:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:23 data : id3150547, updateTime2016-08-09 12:02:41 mongo 没有数据
+执行时间:2016-08-09 12:04:23LendRequest data : id = 394108, updateTime2016-08-09 12:02:39, _id :394108$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:23address data : id1570964, updateTime2016-08-09 12:03:11 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:23 data : id5406858, updateTime2016-08-09 12:02:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:23 data : id6950907, updateTime2016-08-09 12:02:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:23 data : id1843959, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:24 data : id631833, updateTime2016-08-09 12:02:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:24 data : id274418, updateTime2016-08-09 12:02:42 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:24 data : id3150548, updateTime2016-08-09 12:02:41 mongo 没有数据
+执行时间:2016-08-09 12:04:24LendRequest data : id = 205419, updateTime2016-08-09 12:02:42, _id :205419$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:24 data : id5406866, updateTime2016-08-09 12:02:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:24 data : id6950909, updateTime2016-08-09 12:03:03 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:24 data : id1843960, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:25 data : id275327, updateTime2016-08-09 12:02:45 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:25 data : id732572, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:25 data : id3150550, updateTime2016-08-09 12:03:10 mongo 没有数据
+执行时间:2016-08-09 12:04:25LendRequest data : id = 390935, updateTime2016-08-09 12:02:45, _id :390935$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:25 data : id5406868, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:25 data : id6950917, updateTime2016-08-09 12:02:57 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:25 data : id1843961, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:26 data : id272845, updateTime2016-08-09 12:02:49 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:26 data : id877329, updateTime2016-08-09 12:02:58 mongo 没有数据
+执行时间:2016-08-09 12:04:26LendRequest data : id = 395565, updateTime2016-08-09 12:02:48, _id :395565$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:26 data : id5406869, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:26 data : id6950930, updateTime2016-08-09 12:03:02 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:26 data : id1843962, updateTime2016-08-09 12:02:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:27 data : id268559, updateTime2016-08-09 12:02:51 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:27 data : id925875, updateTime2016-08-09 12:03:11 mongo 没有数据
+执行时间:2016-08-09 12:04:27LendRequest data : id = 389757, updateTime2016-08-09 12:02:51, _id :389757$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:27 data : id5406870, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:27 data : id6950951, updateTime2016-08-09 12:02:53 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:27 data : id1841810, updateTime2016-08-09 12:02:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:28 data : id276869, updateTime2016-08-09 12:03:09 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:28 data : id1106360, updateTime2016-08-09 12:02:57 mongo 没有数据
+执行时间:2016-08-09 12:04:28LendRequest data : id = 396315, updateTime2016-08-09 12:03:02, _id :396315$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:28 data : id6950967, updateTime2016-08-09 12:03:05 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:28 data : id1843963, updateTime2016-08-09 12:03:11 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:29 data : id1266541, updateTime2016-08-09 12:03:10 mongo 没有数据
+执行时间:2016-08-09 12:04:29LendRequest data : id = 396495, updateTime2016-08-09 12:03:11, _id :396495$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryUserInfo执行时间:2016-08-09 14:31:12 data : id1395567, updateTime2016-08-09 14:29:30 mongo 没有数据
+
+2016-08-14 00:20:28.580 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:21address data : id1570962, updateTime2016-08-09 12:03:02 AddressInfo mongo 没有数据
+
+2016-08-14 00:20:28.604 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.puhui.DecisionYsp--> com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:11 data : id333589, updateTime2016-08-09 12:02:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:11 data : id275562, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:11address data : id1570955, updateTime2016-08-09 12:02:23 AddressInfo mongo 没有数据
+执行时间:2016-08-09 12:04:11LendRequest data : id = 394681, updateTime2016-08-09 12:02:11, _id :394681$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:11 data : id415342, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:11 data : id1843239, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:12 data : id850690, updateTime2016-08-09 12:02:20 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:12 data : id414779, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.query.mongo.QueryRiskAdditionalInfo执行时间:2016-08-09 12:04:12 data : id1378063, updateTime2016-08-09 12:02:19 mongo 没有数据
+执行时间:2016-08-09 12:04:12P_load data : id1351062 , applyNo : 301201608090011273, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:12 data : id1725050, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserInfo执行时间:2016-08-09 12:04:12 data : id1394288, updateTime2016-08-09 12:02:15 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:12 data : id272772, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:12address data : id1570433, updateTime2016-08-09 12:02:34 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:12 data : id3150536, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:12 data : id360703, updateTime2016-08-09 12:02:12 mongo 没有数据
+执行时间:2016-08-09 12:04:12LendRequest data : id = 394116, updateTime2016-08-09 12:02:12, _id :394116$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:12 data : id415343, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:12 data : id5406837, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:12 data : id1843240, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:13 data : id850691, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:13 data : id414931, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryRiskAdditionalInfo执行时间:2016-08-09 12:04:13 data : id1378394, updateTime2016-08-09 12:02:42 mongo 没有数据
+执行时间:2016-08-09 12:04:13P_load data : id1351068 , applyNo : 301201608090011090, updateTime2016-08-09 12:02:35 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:13 data : id1725067, updateTime2016-08-09 12:02:07 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:13 data : id276333, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:13address data : id1570956, updateTime2016-08-09 12:02:38 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:13 data : id3150537, updateTime2016-08-09 12:02:16 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:13 data : id360701, updateTime2016-08-09 12:02:22 mongo 没有数据
+执行时间:2016-08-09 12:04:13LendRequest data : id = 394367, updateTime2016-08-09 12:02:14, _id :394367$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:13 data : id415344, updateTime2016-08-09 12:03:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:13 data : id5406838, updateTime2016-08-09 12:02:12 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:13 data : id1843241, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:14 data : id850692, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:14 data : id414932, updateTime2016-08-09 12:02:54 mongo 没有数据
+执行时间:2016-08-09 12:04:14P_load data : id1351064 , applyNo : 301201608090011037, updateTime2016-08-09 12:02:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:14 data : id278314, updateTime2016-08-09 12:02:17 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:14address data : id1570957, updateTime2016-08-09 12:02:38 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:14 data : id3150538, updateTime2016-08-09 12:02:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:14 data : id360705, updateTime2016-08-09 12:03:11 mongo 没有数据
+执行时间:2016-08-09 12:04:14LendRequest data : id = 392523, updateTime2016-08-09 12:02:15, _id :392523$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:14 data : id310761, updateTime2016-08-09 12:02:32 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:14 data : id5406839, updateTime2016-08-09 12:02:16 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:14 data : id1843242, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:15 data : id850693, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:15 data : id414529, updateTime2016-08-09 12:02:57 mongo 没有数据
+执行时间:2016-08-09 12:04:15P_load data : id1351069 , applyNo : 103201608090001150, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:15 data : id277520, updateTime2016-08-09 12:02:23 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:15address data : id1570958, updateTime2016-08-09 12:02:38 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:15 data : id3150539, updateTime2016-08-09 12:02:22 mongo 没有数据
+执行时间:2016-08-09 12:04:15LendRequest data : id = 393069, updateTime2016-08-09 12:02:17, _id :393069$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:04:15 data : id310806, updateTime2016-08-09 12:03:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:15 data : id5406841, updateTime2016-08-09 12:02:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:15 data : id1843955, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:16 data : id850694, updateTime2016-08-09 12:02:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:16 data : id414753, updateTime2016-08-09 12:03:02 mongo 没有数据
+执行时间:2016-08-09 12:04:16P_load data : id1351070 , applyNo : 301201608090011376, updateTime2016-08-09 12:02:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:16 data : id274374, updateTime2016-08-09 12:02:23 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:16address data : id1570959, updateTime2016-08-09 12:02:54 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:16 data : id3150540, updateTime2016-08-09 12:02:25 mongo 没有数据
+执行时间:2016-08-09 12:04:16LendRequest data : id = 390949, updateTime2016-08-09 12:02:23, _id :390949$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:16 data : id5406846, updateTime2016-08-09 12:02:25 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:16 data : id1843956, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:17 data : id23726, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:04:17 data : id850695, updateTime2016-08-09 12:03:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:04:17 data : id414933, updateTime2016-08-09 12:03:11 mongo 没有数据
+执行时间:2016-08-09 12:04:17P_load data : id1350951 , applyNo : 301201608090010615, updateTime2016-08-09 12:03:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:17 data : id259912, updateTime2016-08-09 12:02:25 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:17address data : id1570960, updateTime2016-08-09 12:02:54 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:17 data : id3150541, updateTime2016-08-09 12:02:31 mongo 没有数据
+执行时间:2016-08-09 12:04:17LendRequest data : id = 380509, updateTime2016-08-09 12:02:26, _id :380509$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:17 data : id5406849, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:17 data : id6950624, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:17 data : id1843957, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:18 data : id46110, updateTime2016-08-09 12:02:43 mongo 没有数据
+执行时间:2016-08-09 12:04:18P_load data : id1351038 , applyNo : 301201608090011096, updateTime2016-08-09 12:03:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:18 data : id274896, updateTime2016-08-09 12:02:27 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:18address data : id1569524, updateTime2016-08-09 12:02:57 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:18 data : id3150542, updateTime2016-08-09 12:02:31 mongo 没有数据
+执行时间:2016-08-09 12:04:18LendRequest data : id = 393592, updateTime2016-08-09 12:02:27, _id :393592$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:18 data : id5406850, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:18 data : id6950631, updateTime2016-08-09 12:02:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:18 data : id1843958, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:19 data : id76411, updateTime2016-08-09 12:02:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:19 data : id181879, updateTime2016-08-09 12:02:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:19address data : id1570961, updateTime2016-08-09 12:02:57 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:19 data : id3150543, updateTime2016-08-09 12:02:35 mongo 没有数据
+执行时间:2016-08-09 12:04:19LendRequest data : id = 391789, updateTime2016-08-09 12:02:28, _id :391789$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:19 data : id5406851, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:19 data : id6950747, updateTime2016-08-09 12:03:08 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:19 data : id1839129, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:20 data : id119425, updateTime2016-08-09 12:02:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:04:20 data : id271178, updateTime2016-08-09 12:02:30 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:04:20address data : id1570278, updateTime2016-08-09 12:03:02 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:04:20 data : id3150544, updateTime2016-08-09 12:02:38 mongo 没有数据
+执行时间:2016-08-09 12:04:20LendRequest data : id = 390663, updateTime2016-08-09 12:02:31, _id :390663$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:20 data : id5406852, updateTime2016-08-09 12:02:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:04:20 data : id6950839, updateTime2016-08-09 12:03:02 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:04:20 data : id1839130, updateTime2016-08-09 12:02:48 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:21 data : id121291, updateTime2016-08-09 12:02:41 mongo 没有数据
+
+2016-08-14 00:20:28.839 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:11 data : id1724966, updateTime2016-08-09 12:01:59 mongo 没有数据
+
+2016-08-14 00:20:28.860 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:59 data : id4372758, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:00 data : id5406829, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:00 data : id1700710, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:00 data : id4377708, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:01 data : id5406830, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:01 data : id1710280, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:01 data : id4377984, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:02 data : id5406831, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:02 data : id1710915, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:02 data : id4378104, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:03 data : id5406832, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:03 data : id1711236, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:03 data : id4944295, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:04 data : id5406833, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:04 data : id1718529, updateTime2016-08-09 12:01:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:04 data : id4947337, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:05 data : id5406834, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:05 data : id1720688, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:05 data : id4948837, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:06 data : id5406835, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:06 data : id1724428, updateTime2016-08-09 12:01:21 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:04:06 data : id4951267, updateTime2016-08-09 12:01:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:04:07 data : id5406836, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:07 data : id1724625, updateTime2016-08-09 12:02:06 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:08 data : id1724745, updateTime2016-08-09 12:01:53 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:04:09 data : id1724769, updateTime2016-08-09 12:02:10 mongo 没有数据
+
+2016-08-14 00:20:29.291 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:59 data : id5406828, updateTime2016-08-09 12:02:05 mongo 没有数据
+
+2016-08-14 00:20:29.314 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:49 data : id3848282, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:50 data : id1613095, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:50 data : id5406819, updateTime2016-08-09 12:02:01 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:50 data : id3848792, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:51 data : id1616924, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:51 data : id5406820, updateTime2016-08-09 12:02:01 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:51 data : id3849044, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:52 data : id1621090, updateTime2016-08-09 12:01:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:52 data : id5406821, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:52 data : id3849512, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:53 data : id1635651, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:53 data : id5406822, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:53 data : id3849956, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:54 data : id1648157, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:54 data : id5406823, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:54 data : id3850316, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:55 data : id1666991, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:55 data : id5406824, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:55 data : id3860162, updateTime2016-08-09 12:01:07 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:56 data : id1682635, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:56 data : id5406825, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:56 data : id3860690, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:57 data : id1688251, updateTime2016-08-09 12:01:24 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:57 data : id5406826, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:57 data : id3860954, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:58 data : id1695083, updateTime2016-08-09 12:01:48 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:58 data : id5406827, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:58 data : id3861614, updateTime2016-08-09 12:01:08 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:59 data : id1699828, updateTime2016-08-09 12:02:07 mongo 没有数据
+
+2016-08-14 00:20:29.355 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:40 data : id6950925, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:40 data : id5406809, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:40 data : id1368798, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:40 data : id3844712, updateTime2016-08-09 12:01:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:41 data : id6950928, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:41 data : id5406810, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:41 data : id1383056, updateTime2016-08-09 12:01:43 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:41 data : id3845132, updateTime2016-08-09 12:01:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:42 data : id6950932, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:42 data : id5406811, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:42 data : id1399988, updateTime2016-08-09 12:01:27 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:42 data : id3845768, updateTime2016-08-09 12:01:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:43 data : id6950933, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:43 data : id5406812, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:43 data : id1453515, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:43 data : id3846200, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:44 data : id6950934, updateTime2016-08-09 12:01:48 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:44 data : id5406813, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:44 data : id1464278, updateTime2016-08-09 12:01:51 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:44 data : id3846344, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:45 data : id6950939, updateTime2016-08-09 12:02:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:45 data : id5406814, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:45 data : id1476275, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:45 data : id3846764, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:46 data : id6950940, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:46 data : id5406815, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:46 data : id1488648, updateTime2016-08-09 12:02:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:46 data : id3846968, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:47 data : id6950943, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:47 data : id5406816, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:47 data : id1532025, updateTime2016-08-09 12:01:42 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:47 data : id3847460, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:48 data : id6950949, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:48 data : id5406817, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:48 data : id1536017, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:48 data : id3847832, updateTime2016-08-09 12:01:06 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:49 data : id6950953, updateTime2016-08-09 12:02:06 mongo 没有数据
+
+2016-08-14 00:20:29.591 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:49 data : id5406818, updateTime2016-08-09 12:01:59 mongo 没有数据
+
+2016-08-14 00:20:29.608 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:39 data : id3844430, updateTime2016-08-09 12:01:04 mongo 没有数据
+
+2016-08-14 00:20:29.628 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:29 data : id3150529, updateTime2016-08-09 12:02:03 mongo 没有数据
+执行时间:2016-08-09 12:03:29LendRequest data : id = 390945, updateTime2016-08-09 12:02:06, _id :390945$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:29 data : id6950903, updateTime2016-08-09 12:01:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:29 data : id5406798, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:29 data : id1843833, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:30 data : id1032334, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:30 data : id3841298, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:30 data : id3150530, updateTime2016-08-09 12:02:04 mongo 没有数据
+执行时间:2016-08-09 12:03:30LendRequest data : id = 394681, updateTime2016-08-09 12:02:11, _id :394681$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:30 data : id6950906, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:30 data : id5406799, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:30 data : id1843834, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:31 data : id1038083, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:31 data : id3841682, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:31 data : id3150531, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:31 data : id6950911, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:31 data : id5406800, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:31 data : id1843951, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:32 data : id1043309, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:32 data : id3842174, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:32 data : id3150532, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:32 data : id6950912, updateTime2016-08-09 12:01:56 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:32 data : id5406801, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:32 data : id1843952, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:33 data : id1068646, updateTime2016-08-09 12:01:12 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:33 data : id3842474, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:33 data : id3150533, updateTime2016-08-09 12:02:05 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:33 data : id6950913, updateTime2016-08-09 12:01:20 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:33 data : id5406802, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:33 data : id1843953, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:34 data : id1104504, updateTime2016-08-09 12:01:41 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:34 data : id3842696, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:34 data : id3150534, updateTime2016-08-09 12:02:09 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:34 data : id6950914, updateTime2016-08-09 12:01:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:34 data : id5406803, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:34 data : id1843954, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:35 data : id1191872, updateTime2016-08-09 12:01:15 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:35 data : id3843068, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:35 data : id3150535, updateTime2016-08-09 12:02:10 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:35 data : id6950915, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:35 data : id5406804, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:35 data : id1841726, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:36 data : id1260054, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:36 data : id3843512, updateTime2016-08-09 12:01:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:36 data : id6950916, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:36 data : id5406805, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:36 data : id1841727, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:37 data : id1276605, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:37 data : id3843908, updateTime2016-08-09 12:01:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:37 data : id6950918, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:37 data : id5406806, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:37 data : id1841728, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:38 data : id1319510, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:38 data : id3844136, updateTime2016-08-09 12:01:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:38 data : id6950919, updateTime2016-08-09 12:01:42 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:38 data : id5406807, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:38 data : id1841729, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:39 data : id1338892, updateTime2016-08-09 12:01:53 mongo 没有数据
+
+2016-08-14 00:20:29.643 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:28 data : id3840614, updateTime2016-08-09 12:01:02 mongo 没有数据
+
+2016-08-14 00:20:29.665 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:19 data : id190957, updateTime2016-08-09 12:01:18 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:19 data : id6950766, updateTime2016-08-09 12:01:51 mongo 没有数据
+执行时间:2016-08-09 12:03:19LendRequest data : id = 393671, updateTime2016-08-09 12:01:37, _id :393671$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:19 data : id3150519, updateTime2016-08-09 12:01:38 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:19 data : id271610, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:19address data : id1570951, updateTime2016-08-09 12:01:39 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:19 data : id5406788, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:19 data : id1843943, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:19 data : id3472446, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:20P_load data : id1351066 , applyNo : 301201608090011308, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:20 data : id505998, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:20 data : id6950779, updateTime2016-08-09 12:01:52 mongo 没有数据
+执行时间:2016-08-09 12:03:20LendRequest data : id = 395678, updateTime2016-08-09 12:01:37, _id :395678$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:20 data : id3150520, updateTime2016-08-09 12:01:40 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:20 data : id275562, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:20address data : id1570952, updateTime2016-08-09 12:01:39 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:20 data : id5406789, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:20 data : id1843944, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:20 data : id3472578, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:21P_load data : id1351067 , applyNo : 301201608090011238, updateTime2016-08-09 12:01:52 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:21 data : id508247, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:21 data : id6950801, updateTime2016-08-09 12:01:50 mongo 没有数据
+执行时间:2016-08-09 12:03:21LendRequest data : id = 392526, updateTime2016-08-09 12:01:43, _id :392526$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:21 data : id3150521, updateTime2016-08-09 12:01:44 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:21address data : id1570953, updateTime2016-08-09 12:02:02 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:21 data : id5406790, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:21 data : id1843945, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:21 data : id3838550, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:22P_load data : id1351056 , applyNo : 301201608090011244, updateTime2016-08-09 12:02:00 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:22 data : id556479, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:22 data : id6950814, updateTime2016-08-09 12:01:15 mongo 没有数据
+执行时间:2016-08-09 12:03:22LendRequest data : id = 394789, updateTime2016-08-09 12:01:43, _id :394789$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:22 data : id3150522, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:22address data : id1570954, updateTime2016-08-09 12:02:02 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:22 data : id5406791, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:22 data : id1843946, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:22 data : id3838682, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:23P_load data : id1351057 , applyNo : 301201608090011255, updateTime2016-08-09 12:02:00 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:23 data : id650384, updateTime2016-08-09 12:02:04 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:23 data : id6950846, updateTime2016-08-09 12:01:12 mongo 没有数据
+执行时间:2016-08-09 12:03:23LendRequest data : id = 394056, updateTime2016-08-09 12:01:44, _id :394056$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:23 data : id3150523, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:23 data : id5406792, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:23 data : id1843947, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:23 data : id3839138, updateTime2016-08-09 12:01:02 mongo 没有数据
+执行时间:2016-08-09 12:03:24P_load data : id1351063 , applyNo : 306201608090000032, updateTime2016-08-09 12:02:00 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:24 data : id731152, updateTime2016-08-09 12:01:22 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:24 data : id6950849, updateTime2016-08-09 12:01:46 mongo 没有数据
+执行时间:2016-08-09 12:03:24LendRequest data : id = 394352, updateTime2016-08-09 12:01:45, _id :394352$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:24 data : id3150524, updateTime2016-08-09 12:01:49 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:24 data : id5406793, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:24 data : id1843948, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:24 data : id3839294, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:25 data : id767241, updateTime2016-08-09 12:01:48 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:25 data : id6950863, updateTime2016-08-09 12:02:02 mongo 没有数据
+执行时间:2016-08-09 12:03:25LendRequest data : id = 396469, updateTime2016-08-09 12:01:45, _id :396469$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:25 data : id3150525, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:25 data : id5406794, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:25 data : id1843949, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:25 data : id3839570, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:26 data : id801031, updateTime2016-08-09 12:01:12 mongo 没有数据
+执行时间:2016-08-09 12:03:26LendRequest data : id = 396454, updateTime2016-08-09 12:01:54, _id :396454$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:26 data : id6950886, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:26 data : id3150526, updateTime2016-08-09 12:01:57 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:26 data : id5406795, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:26 data : id1843950, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:26 data : id3839978, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:27 data : id811061, updateTime2016-08-09 12:01:45 mongo 没有数据
+执行时间:2016-08-09 12:03:27LendRequest data : id = 378729, updateTime2016-08-09 12:02:04, _id :378729$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:27 data : id6950889, updateTime2016-08-09 12:01:55 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:27 data : id3150527, updateTime2016-08-09 12:01:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:27 data : id5406796, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:27 data : id1843831, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:27 data : id3840338, updateTime2016-08-09 12:01:02 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:28 data : id969812, updateTime2016-08-09 12:01:47 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:28 data : id3150528, updateTime2016-08-09 12:02:01 mongo 没有数据
+执行时间:2016-08-09 12:03:28LendRequest data : id = 390144, updateTime2016-08-09 12:02:06, _id :390144$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:28 data : id6950901, updateTime2016-08-09 12:01:11 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:28 data : id5406797, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:28 data : id1843832, updateTime2016-08-09 12:01:46 mongo 没有数据
+
+2016-08-14 00:20:29.680 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:18 data : id3472338, updateTime2016-08-09 12:01:01 mongo 没有数据
+
+2016-08-14 00:20:29.909 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:09 data : id3125662, updateTime2016-08-09 12:01:00 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:10 data : id3126130, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:11 data : id414765, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.query.mongo.QueryRiskAdditionalInfo执行时间:2016-08-09 12:03:11 data : id1378062, updateTime2016-08-09 12:01:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.DecisionYsp--> com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:11 data : id333587, updateTime2016-08-09 12:01:22 mongo 没有数据
+执行时间:2016-08-09 12:03:11LendRequest data : id = 396010, updateTime2016-08-09 12:01:16, _id :396010$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:11 data : id3150511, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:11 data : id276385, updateTime2016-08-09 12:01:23 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:11address data : id1570325, updateTime2016-08-09 12:01:16 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserInfo执行时间:2016-08-09 12:03:11 data : id1394285, updateTime2016-08-09 12:01:18 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:11 data : id3126610, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:11 data : id1843095, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:12 data : id414734, updateTime2016-08-09 12:01:29 mongo 没有数据
+执行时间:2016-08-09 12:03:12LendRequest data : id = 396327, updateTime2016-08-09 12:01:16, _id :396327$puhui mongo 没有数据
+com.puhui.df.model.mysql.puhui.DecisionYsp--> com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:12 data : id333588, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:12 data : id277870, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:12 data : id3150512, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:12address data : id1570945, updateTime2016-08-09 12:01:16 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:12 data : id5406781, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:12 data : id360702, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:12 data : id3126994, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:12P_load data : id1347864 , applyNo : 102201608090087480, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:12 data : id415340, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:12 data : id1843096, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:13 data : id7599, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:13 data : id414928, updateTime2016-08-09 12:01:30 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:13 data : id310803, updateTime2016-08-09 12:01:53 mongo 没有数据
+执行时间:2016-08-09 12:03:13LendRequest data : id = 396170, updateTime2016-08-09 12:01:23, _id :396170$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:13 data : id278312, updateTime2016-08-09 12:01:31 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:13 data : id3150513, updateTime2016-08-09 12:01:18 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:13address data : id1570946, updateTime2016-08-09 12:01:22 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:13 data : id849567, updateTime2016-08-09 12:01:14 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:13 data : id5406782, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFirstTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:13 data : id360704, updateTime2016-08-09 12:01:55 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:13 data : id3127132, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:13P_load data : id1351058 , applyNo : 301201608090010717, updateTime2016-08-09 12:01:21 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:13 data : id415341, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:13 data : id1843097, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:14 data : id86297, updateTime2016-08-09 12:01:50 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:14 data : id414929, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFaceTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:14 data : id310805, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskCompany-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:14 data : id = 549831, updateTime = 2016-08-09 12:01:13 mongo 没有数据
+执行时间:2016-08-09 12:03:14LendRequest data : id = 396373, updateTime2016-08-09 12:01:23, _id :396373$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:14 data : id3150514, updateTime2016-08-09 12:01:22 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:14 data : id277186, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:14address data : id1570210, updateTime2016-08-09 12:01:29 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:14 data : id850684, updateTime2016-08-09 12:01:24 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:14 data : id5406783, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:14 data : id3127600, updateTime2016-08-09 12:01:01 mongo 没有数据
+执行时间:2016-08-09 12:03:14P_load data : id1350517 , applyNo : 301201608090009381, updateTime2016-08-09 12:01:22 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskFinalTrial-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:14 data : id415342, updateTime2016-08-09 12:02:11 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:14 data : id1843098, updateTime2016-08-09 12:01:16 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:15 data : id104667, updateTime2016-08-09 12:02:03 mongo 没有数据
+com.puhui.df.query.mongo.QueryOccupationInfo执行时间:2016-08-09 12:03:15 data : id414930, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.model.mysql.puhui.RiskCompany-->com.puhui.df.query.mongo.QueryRiskInfo执行时间:2016-08-09 12:03:15 data : id = 549832, updateTime = 2016-08-09 12:01:19 mongo 没有数据
+执行时间:2016-08-09 12:03:15LendRequest data : id = 388071, updateTime2016-08-09 12:01:24, _id :388071$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:15 data : id3150515, updateTime2016-08-09 12:01:26 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:15 data : id276299, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:15address data : id1570947, updateTime2016-08-09 12:01:29 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:15 data : id850686, updateTime2016-08-09 12:01:39 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:15 data : id5406784, updateTime2016-08-09 12:01:13 mongo 没有数据
+执行时间:2016-08-09 12:03:15P_load data : id1350876 , applyNo : 301201608090010172, updateTime2016-08-09 12:01:25 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:15 data : id3467778, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:15 data : id1842899, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:16 data : id118589, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:16 data : id6950578, updateTime2016-08-09 12:01:26 mongo 没有数据
+执行时间:2016-08-09 12:03:16LendRequest data : id = 395103, updateTime2016-08-09 12:01:28, _id :395103$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:16 data : id3150516, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:16 data : id278313, updateTime2016-08-09 12:01:46 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:16address data : id1570948, updateTime2016-08-09 12:01:30 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:16 data : id850687, updateTime2016-08-09 12:01:19 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:16 data : id5406785, updateTime2016-08-09 12:01:18 mongo 没有数据
+执行时间:2016-08-09 12:03:16P_load data : id1351065 , applyNo : 301201608090011159, updateTime2016-08-09 12:01:28 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:16 data : id3467892, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:16 data : id1842900, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:17 data : id147800, updateTime2016-08-09 12:01:15 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:17 data : id6950625, updateTime2016-08-09 12:01:25 mongo 没有数据
+执行时间:2016-08-09 12:03:17LendRequest data : id = 396296, updateTime2016-08-09 12:01:29, _id :396296$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:17 data : id3150517, updateTime2016-08-09 12:01:34 mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:17 data : id273733, updateTime2016-08-09 12:01:54 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:17address data : id1570949, updateTime2016-08-09 12:01:30 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:17 data : id850688, updateTime2016-08-09 12:01:45 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:17 data : id5406786, updateTime2016-08-09 12:01:22 mongo 没有数据
+执行时间:2016-08-09 12:03:17P_load data : id1351053 , applyNo : 301201608090011241, updateTime2016-08-09 12:01:37 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:17 data : id3472230, updateTime2016-08-09 12:01:01 mongo 没有数据
+com.puhui.df.model.mysql.puhui.LendCustomerContact-->com.puhui.df.query.mongo.QueryUserContacts执行时间:2016-08-09 12:03:17 data : id1842901, updateTime2016-08-09 12:01:29 mongo 没有数据
+com.puhui.df.model.mysql.jiea.User-->com.puhui.df.query.mongo.QueryUserBasicInfo执行时间:2016-08-09 12:03:18 data : id176351, updateTime2016-08-09 12:01:13 mongo 没有数据
+com.puhui.df.query.mongo.QueryTmCusApplyLoan执行时间:2016-08-09 12:03:18 data : id6950700, updateTime2016-08-09 12:01:28 mongo 没有数据
+执行时间:2016-08-09 12:03:18LendRequest data : id = 396490, updateTime2016-08-09 12:01:30, _id :396490$puhui mongo 没有数据
+com.puhui.df.query.mongo.QueryAppLendRequest执行时间:2016-08-09 12:03:18 data : id258568, updateTime2016-08-09 12:02:02 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistDetailInfo执行时间:2016-08-09 12:03:18 data : id3150518, updateTime2016-08-09 12:01:35 mongo 没有数据
+com.puhui.df.model.mysql.puhui.Address-->com.puhui.df.query.mongo.QueryAddressInfo执行时间:2016-08-09 12:03:18address data : id1570950, updateTime2016-08-09 12:01:37 AddressInfo mongo 没有数据
+com.puhui.df.query.mongo.QueryUserBankCard执行时间:2016-08-09 12:03:18 data : id850689, updateTime2016-08-09 12:01:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryBlacklistInfo执行时间:2016-08-09 12:03:18 data : id5406787, updateTime2016-08-09 12:01:22 mongo 没有数据
+执行时间:2016-08-09 12:03:18P_load data : id1350943 , applyNo : 301201608090010604, updateTime2016-08-09 12:01:39 mongo 没有数据
+
+2016-08-14 00:20:30.138 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:08 data : id3125242, updateTime2016-08-09 12:01:00 mongo 没有数据
+
+2016-08-14 00:20:30.181 [main] DEBUG com.puhuifinance.huisou.df.service.MailService - com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:02:57 data : id3116272, updateTime2016-08-09 12:00:58 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:02:58 data : id3116704, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:02:59 data : id3116848, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:00 data : id3117088, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:01 data : id3117370, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:02 data : id3117688, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:04 data : id3121624, updateTime2016-08-09 12:00:59 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:05 data : id3121840, updateTime2016-08-09 12:01:00 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:06 data : id3122008, updateTime2016-08-09 12:01:00 mongo 没有数据
+com.puhui.df.query.mongo.QueryLendRepayRecord执行时间:2016-08-09 12:03:07 data : id3124420, updateTime2016-08-09 12:01:00 mongo 没有数据
+
+2016-08-14 00:22:01.409 [main] INFO  com.puhuifinance.huisou.df.service.MailService - message recieveing is finished

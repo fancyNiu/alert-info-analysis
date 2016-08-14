@@ -49,7 +49,6 @@ public class ExcelUtils {
                 }
                 list.add(strs);
             }
-
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (BiffException e) {
@@ -57,7 +56,6 @@ public class ExcelUtils {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         return list;
     }
 
@@ -104,7 +102,6 @@ public class ExcelUtils {
                 wwb = Workbook.createWorkbook(tempfile,rwb);
             }
 
-
             //获取当前工作表量，并在最后一张表后，新建一张表存放数据
             int sheetNumber = rwb.getNumberOfSheets();
             System.out.println(sheetNumber);
@@ -115,7 +112,6 @@ public class ExcelUtils {
                 Label label = new Label(Integer.parseInt(titleMap.get(key)),0,key,titleCellFormat);
                 sheet.addCell(label);
             }
-
 
             for(int i=1;i<=list.size();i++){
                 Map<String,String> map = (Map<String,String>)list.get(i-1);
@@ -129,8 +125,6 @@ public class ExcelUtils {
             rwb.close();
             outputFile.delete();
             tempfile.renameTo(outputFile);
-
-
         } catch (IOException e) {
             e.printStackTrace();
         } catch (RowsExceededException e) {
@@ -140,10 +134,5 @@ public class ExcelUtils {
         } catch (BiffException e) {
             e.printStackTrace();
         }
-
-
     }
-
-
-
 }

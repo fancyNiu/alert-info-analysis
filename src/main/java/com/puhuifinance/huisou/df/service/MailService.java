@@ -3,6 +3,8 @@ package com.puhuifinance.huisou.df.service;
 
 import com.alibaba.fastjson.JSONObject;
 import com.puhuifinance.huisou.df.util.FileUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import javax.mail.*;
 import java.io.IOException;
@@ -19,10 +21,12 @@ import java.util.Properties;
 public class MailService {
 
     public static Store store;
+    private static final Logger LOG = LoggerFactory.getLogger(MailService.class);
 
     //创建邮箱连接
     public MailService(String conf) {
         try {
+            LOG.info("load the config file");
             JSONObject mailConf = FileUtils.getJSONObjectFromJsonFile(conf);
             Properties props = new Properties();
             props.put("mail.transport.protocol", "pop3");
@@ -36,7 +40,9 @@ public class MailService {
             String password = mailConf.getString("password");
 
             //连接邮箱
+            LOG.info("connect to email......");
             store.connect(ip, email, password);
+            LOG.info("connect to email success");
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -54,12 +60,14 @@ public class MailService {
 
         try {
             //获取收件箱
+            LOG.info("Open the INBOX");
             SimpleDateFormat formate = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
             Date date = formate.parse(fromDate);
             Folder folder = store.getFolder("INBOX");
             if (folder == null) {
                 throw(new RuntimeException("服务器不可用"));
             }
+            LOG.info("the INBOX is open");
             //打开收件箱，并将消息内容放入list中
             folder.open(Folder.READ_ONLY);
             Message[] messages = folder.getMessages();
@@ -67,12 +75,15 @@ public class MailService {
             for(int i = count-1;i>1000;i--){
                 if(messages[i].getSentDate().getTime()>=date.getTime() && "知识图谱数据报警".equals(messages[i].getSubject())){
                     String messageContexts = messages[i].getContent().toString();
+                    LOG.debug(messageContexts);
                     String[] messageContext = messageContexts.split("\n");
                     for(int j=0;j<messageContext.length;j++){
-                        list.add(messageContext[i]);
+                        list.add(messageContext[j]);
                     }
                 }
             }
+            LOG.info("message recieveing is finished");
+            folder.close(true);
             store.close();
         } catch (MessagingException e) {
             e.printStackTrace();

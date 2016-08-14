@@ -25,5 +25,8 @@
         <module name="alert-info-analysis" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alert-info-analysis" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

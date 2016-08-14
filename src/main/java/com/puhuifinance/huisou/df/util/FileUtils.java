@@ -32,12 +32,11 @@ public class FileUtils {
         JSONObject jsonFileData = JSONObject.parseObject(String.valueOf(jsonData));
         return jsonFileData;
     }
-
-    public static Properties getPropertiesFile(String filePath) throws IOException {
-        Properties properties = new Properties();
-        properties.load(new FileReader(filePath));
-        return properties;
-    }
+//    public static Properties getPropertiesFile(String filePath) throws IOException {
+//        Properties properties = new Properties();
+//        properties.load(new FileReader(filePath));
+//        return properties;
+//    }
 
 
 }
