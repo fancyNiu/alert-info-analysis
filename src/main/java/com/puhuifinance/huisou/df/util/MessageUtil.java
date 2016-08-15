@@ -4,6 +4,7 @@ import com.alibaba.fastjson.JSONObject;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -15,9 +16,9 @@ import java.util.regex.Pattern;
  */
 public class MessageUtil {
     private static final org.slf4j.Logger LOG = LoggerFactory.getLogger(MessageUtil.class);
-    public static Map<String, String> parseMessage(List<String> list) {
-        //创建最终返回的map
-        Map<String, String> map = new HashMap<String, String>();
+    public static List<Map<String,String>> parseMessage(List<String> list) {
+        //创建最终返回的list
+        List<Map<String,String>> messageInfoList = new ArrayList<Map<String, String>>();
         try {
             //加载配置文件
             LOG.info("load the config file.....");
@@ -38,6 +39,7 @@ public class MessageUtil {
             Matcher matcher =null;
             for (int i = 0; i < list.size(); i++) {
                 //解析基本信息，并将数据分成neo4j和mongo两个部分来处理
+                Map<String, String> map = new HashMap<String, String>();
                 LOG.debug("the message is :");
                 message = list.get(i);
                 map.put("报警信息", message);
@@ -57,12 +59,13 @@ public class MessageUtil {
                     }else if(message.startsWith("com.puhui.df.query.mongo")){
                         regex = "com.puhui.df.query.mongo.Query(.*?)执行时间";
                     }else {
-                        regex = "\\d(.*?) data";
+                        regex = "\\d{2}:\\d{2}:\\d{2}(.*?) data";
                     }
                 }
                 pattern = Pattern.compile(regex);
                 matcher = pattern.matcher(message);
                 if(matcher.find()){
+                    System.out.println(matcher.group(1));
                     if(mysqlColumnRelationsMap.containsKey(matcher.group(1))){
                         map.put("mysql中的表名", mysqlColumnRelationsMap.get(matcher.group(1)));
                         map.put("Mongo中的表名", mongoColumnRelationsMap.get(matcher.group(1)));
@@ -76,11 +79,12 @@ public class MessageUtil {
                         map.put(regexMap.get(key), matcher.group(1));
                     }
                 }
+                messageInfoList.add(map);
             }
             LOG.info("the message handling is finished");
         } catch (IOException e1) {
             e1.printStackTrace();
         }
-        return map;
+        return messageInfoList;
     }
 }

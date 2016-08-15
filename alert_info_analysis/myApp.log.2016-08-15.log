@@ -1,0 +1,138 @@
+2016-08-15 15:12:06.384 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:12:06.921 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:12:06.923 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:12:06.926 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:12:06.928 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - the message handling is finished
+2016-08-15 15:12:53.486 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:12:53.703 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:12:53.704 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:12:53.706 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:12:53.707 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - the message handling is finished
+2016-08-15 15:13:32.417 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:13:32.667 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:13:32.667 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:13:32.668 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:13:32.669 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - the message handling is finished
+2016-08-15 15:15:32.348 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:15:32.612 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:15:32.613 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:17:37.702 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:18:22.529 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:18:22.767 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:18:22.768 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:20:10.074 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:20:10.340 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:20:10.341 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:21:37.654 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:21:37.922 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:21:37.923 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:22:22.324 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:22:22.572 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:22:22.573 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:25:27.872 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:25:28.129 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:25:28.129 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:30:56.130 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:30:56.361 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:30:56.362 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:33:03.165 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:33:03.394 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:33:03.395 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:33:59.881 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:35:01.803 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - load the config file.....
+2016-08-15 15:35:02.086 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - handle the message
+2016-08-15 15:35:02.087 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:35:02.089 [main] DEBUG com.puhuifinance.huisou.df.util.MessageUtil - the message is :
+2016-08-15 15:35:02.091 [main] INFO  com.puhuifinance.huisou.df.util.MessageUtil - the message handling is finished
+2016-08-15 20:46:29.976 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:46:29.979 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:46:30.214 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 20:46:30.264 [main] INFO  org.mongodb.driver.cluster - No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=MULTIPLE, all=[ServerDescription{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-08-15 20:46:30.602 [cluster-ClusterId{value='57b1b9a52c548511bc5d1b01', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:2808}] to 172.16.4.172:60060
+2016-08-15 20:46:30.603 [cluster-ClusterId{value='57b1b9a52c548511bc5d1b01', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:46:30.608 [cluster-ClusterId{value='57b1b9a52c548511bc5d1b01', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=172.16.4.172:60060, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 7]}, minWireVersion=0, maxWireVersion=4, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=4244934}
+2016-08-15 20:46:30.612 [cluster-ClusterId{value='57b1b9a52c548511bc5d1b01', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Discovered cluster type of STANDALONE
+2016-08-15 20:46:30.615 [cluster-ClusterId{value='57b1b9a52c548511bc5d1b01', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=4.2 ms, state=CONNECTED}]
+2016-08-15 20:46:30.684 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:2809}] to 172.16.4.172:60060
+2016-08-15 20:46:30.690 [main] DEBUG org.mongodb.driver.protocol.query - Sending query of namespace df.ApplyBasicInfo on connection [connectionId{localValue:2, serverValue:2809}] to server 172.16.4.172:60060
+2016-08-15 20:46:30.700 [main] DEBUG org.mongodb.driver.protocol.query - Query completed
+2016-08-15 20:49:21.869 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:49:21.873 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:49:21.962 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 20:49:21.994 [main] INFO  org.mongodb.driver.cluster - No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=MULTIPLE, all=[ServerDescription{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-08-15 20:49:22.358 [cluster-ClusterId{value='57b1ba512c54850820d8b8cf', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:2810}] to 172.16.4.172:60060
+2016-08-15 20:49:22.359 [cluster-ClusterId{value='57b1ba512c54850820d8b8cf', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:49:22.364 [cluster-ClusterId{value='57b1ba512c54850820d8b8cf', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=172.16.4.172:60060, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 7]}, minWireVersion=0, maxWireVersion=4, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=1894569}
+2016-08-15 20:49:22.367 [cluster-ClusterId{value='57b1ba512c54850820d8b8cf', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Discovered cluster type of STANDALONE
+2016-08-15 20:49:22.369 [cluster-ClusterId{value='57b1ba512c54850820d8b8cf', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=1.9 ms, state=CONNECTED}]
+2016-08-15 20:49:22.422 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:2811}] to 172.16.4.172:60060
+2016-08-15 20:49:22.430 [main] DEBUG org.mongodb.driver.protocol.query - Sending query of namespace df.ApplyBasicInfo on connection [connectionId{localValue:2, serverValue:2811}] to server 172.16.4.172:60060
+2016-08-15 20:49:22.442 [main] DEBUG org.mongodb.driver.protocol.query - Query completed
+2016-08-15 20:50:25.841 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:50:25.846 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:50:25.978 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 20:50:30.839 [main] INFO  org.mongodb.driver.cluster - No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=MULTIPLE, all=[ServerDescription{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-08-15 20:50:31.026 [cluster-ClusterId{value='57b1ba912c548516e8b3b7b1', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:2812}] to 172.16.4.172:60060
+2016-08-15 20:50:31.027 [cluster-ClusterId{value='57b1ba912c548516e8b3b7b1', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:50:31.031 [cluster-ClusterId{value='57b1ba912c548516e8b3b7b1', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=172.16.4.172:60060, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 7]}, minWireVersion=0, maxWireVersion=4, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=2629349}
+2016-08-15 20:50:31.034 [cluster-ClusterId{value='57b1ba912c548516e8b3b7b1', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Discovered cluster type of STANDALONE
+2016-08-15 20:50:31.037 [cluster-ClusterId{value='57b1ba912c548516e8b3b7b1', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=2.6 ms, state=CONNECTED}]
+2016-08-15 20:50:32.344 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:2813}] to 172.16.4.172:60060
+2016-08-15 20:50:32.358 [main] DEBUG org.mongodb.driver.protocol.query - Sending query of namespace df.ApplyBasicInfo on connection [connectionId{localValue:2, serverValue:2813}] to server 172.16.4.172:60060
+2016-08-15 20:50:32.382 [main] DEBUG org.mongodb.driver.protocol.query - Query completed
+2016-08-15 20:51:00.306 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:51:00.310 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:51:00.416 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 20:51:01.028 [main] INFO  org.mongodb.driver.cluster - No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=MULTIPLE, all=[ServerDescription{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-08-15 20:51:01.289 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:2814}] to 172.16.4.172:60060
+2016-08-15 20:51:01.290 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:51:01.296 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=172.16.4.172:60060, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 7]}, minWireVersion=0, maxWireVersion=4, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=4469801}
+2016-08-15 20:51:01.299 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Discovered cluster type of STANDALONE
+2016-08-15 20:51:01.301 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=4.5 ms, state=CONNECTED}]
+2016-08-15 20:51:02.557 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:2815}] to 172.16.4.172:60060
+2016-08-15 20:51:02.572 [main] DEBUG org.mongodb.driver.protocol.query - Sending query of namespace df.ApplyBasicInfo on connection [connectionId{localValue:2, serverValue:2815}] to server 172.16.4.172:60060
+2016-08-15 20:51:02.594 [main] DEBUG org.mongodb.driver.protocol.query - Query completed
+2016-08-15 20:51:17.439 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:51:24.079 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=4.6 ms, state=CONNECTED}]
+2016-08-15 20:51:52.378 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:51:52.382 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=4.2 ms, state=CONNECTED}]
+2016-08-15 20:55:30.646 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:56:56.330 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=17139.8 ms, state=CONNECTED}]
+2016-08-15 20:57:33.913 [cluster-ClusterId{value='57b1bab42c548523a0e8e7e3', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:57:52.213 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:57:52.217 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:57:52.348 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 20:58:01.310 [main] INFO  org.mongodb.driver.cluster - No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=MULTIPLE, all=[ServerDescription{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-08-15 20:58:01.522 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:2816}] to 172.16.4.172:60060
+2016-08-15 20:58:01.523 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:58:01.527 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=172.16.4.172:60060, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 7]}, minWireVersion=0, maxWireVersion=4, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=2008867}
+2016-08-15 20:58:01.529 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Discovered cluster type of STANDALONE
+2016-08-15 20:58:01.531 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=2.0 ms, state=CONNECTED}]
+2016-08-15 20:58:02.797 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:2817}] to 172.16.4.172:60060
+2016-08-15 20:58:02.813 [main] DEBUG org.mongodb.driver.protocol.query - Sending query of namespace df.ApplyBasicInfo on connection [connectionId{localValue:2, serverValue:2817}] to server 172.16.4.172:60060
+2016-08-15 20:58:02.844 [main] DEBUG org.mongodb.driver.protocol.query - Query completed
+2016-08-15 20:58:13.603 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:58:13.621 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=4.5 ms, state=CONNECTED}]
+2016-08-15 20:58:29.472 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 20:58:29.477 [cluster-ClusterId{value='57b1bc502c548508203667d0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=4.4 ms, state=CONNECTED}]
+2016-08-15 20:59:21.475 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:59:21.480 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:59:21.589 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 20:59:54.443 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 20:59:54.448 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 20:59:54.559 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 21:02:49.365 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[172.16.4.172:60060], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2016-08-15 21:02:49.375 [main] INFO  org.mongodb.driver.cluster - Adding discovered server 172.16.4.172:60060 to client view of cluster
+2016-08-15 21:02:49.550 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=172.16.4.172:60060, type=UNKNOWN, state=CONNECTING}]
+2016-08-15 21:03:09.043 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:2820}] to 172.16.4.172:60060
+2016-08-15 21:03:09.045 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 21:03:09.053 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=172.16.4.172:60060, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 7]}, minWireVersion=0, maxWireVersion=4, electionId=null, maxDocumentSize=16777216, roundTripTimeNanos=6219745}
+2016-08-15 21:03:09.164 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] INFO  org.mongodb.driver.cluster - Discovered cluster type of STANDALONE
+2016-08-15 21:03:09.526 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=6.2 ms, state=CONNECTED}]
+2016-08-15 21:03:10.856 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:2821}] to 172.16.4.172:60060
+2016-08-15 21:03:10.871 [main] DEBUG org.mongodb.driver.protocol.query - Sending query of namespace df.ApplyBasicInfo on connection [connectionId{localValue:2, serverValue:2821}] to server 172.16.4.172:60060
+2016-08-15 21:03:10.902 [main] DEBUG org.mongodb.driver.protocol.query - Query completed
+2016-08-15 21:03:20.616 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 21:03:21.782 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=210.8 ms, state=CONNECTED}]
+2016-08-15 21:04:15.045 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Checking status of 172.16.4.172:60060
+2016-08-15 21:04:50.936 [cluster-ClusterId{value='57b1bd792c54852388564fc0', description='null'}-172.16.4.172:60060] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=172.16.4.172:60060, type=STANDALONE, roundTripTime=7337.2 ms, state=CONNECTED}]
