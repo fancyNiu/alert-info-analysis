@@ -1,14 +1,13 @@
 package com.puhuifinance.huisou.df.run;
 
 import com.puhuifinance.huisou.df.service.MailService;
+import com.puhuifinance.huisou.df.util.ExcelUtils;
 import com.puhuifinance.huisou.df.util.MessageUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 /**
  * Created by puhui on 2016/8/15.
@@ -30,7 +29,13 @@ public class StartRun {
         List<Map<String,String>> messageInfoList = new ArrayList<Map<String,String>>();
         messageInfoList = MessageUtil.parseMessage(list);
 
-        //存入excel
+        //定义文件名称
+        SimpleDateFormat format = new SimpleDateFormat("yyyyMMdd");
+        String now = format.format(new Date());
+        String filePath = "alert_message/"+now+".xls";
+
+        //将邮件解析结果存入excel中
+        ExcelUtils.writeExcel(filePath, messageInfoList);
 
     }
 

@@ -1,11 +1,11 @@
 {
     "ip": [
-        "172.16.4.172"
+        "192.168.111.104"
     ],
     "port": 60060,
     "credentials": {
-        "db":"admin",
-        "userName":"root",
-        "password": "123456"
+        "db":"df",
+        "userName":"df",
+        "password": "df123#@!"
     }
 }

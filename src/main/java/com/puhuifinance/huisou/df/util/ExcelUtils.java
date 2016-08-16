@@ -61,7 +61,7 @@ public class ExcelUtils {
 
     //写入excel
 
-    public static void writeExcel(String outputFilePath,List list){
+    public static void writeExcel(String outputFilePath,List<Map<String,String>> list){
 
         try {
             //设置title的字体,背景色及边框
@@ -71,7 +71,7 @@ public class ExcelUtils {
             titleCellFormat.setBorder(Border.ALL, BorderLineStyle.THIN);
 
             //设置正文的字体，背景色及边框
-            WritableFont textFont = new WritableFont(WritableFont.COURIER,14,WritableFont.NO_BOLD,false, UnderlineStyle.NO_UNDERLINE,Colour.BLACK);
+            WritableFont textFont = new WritableFont(WritableFont.ARIAL,12,WritableFont.NO_BOLD,false, UnderlineStyle.NO_UNDERLINE,Colour.BLACK);
             WritableCellFormat textCellFormat = new WritableCellFormat(textFont);
             textCellFormat.setBackground(Colour.AUTOMATIC);
             textCellFormat.setBorder(Border.ALL, BorderLineStyle.THIN);
@@ -89,23 +89,28 @@ public class ExcelUtils {
                 new File(path).mkdirs();
             }
 
-            Workbook rwb = Workbook.getWorkbook(outputFile);
-            File tempfile = new File(System.getProperty("user.dir") +
-                    "\\"+path+"\\tempfile.xls");
-
             WritableWorkbook wwb = null;
+            WritableSheet sheet = null;
             //如果文件不存在，则创建文件并写入相关数据，否则就在原有数据中追加
             if(!outputFile.exists()){
-                wwb= Workbook.createWorkbook(outputFile);
-
-            }else{
-                wwb = Workbook.createWorkbook(tempfile,rwb);
+                wwb = Workbook.createWorkbook(outputFile);
+                sheet = wwb.createSheet("统计信息", 0);
+                Label label = new Label(0,0,"统计信息");
+                sheet.addCell(label);
+                wwb.write();
+                wwb.close();
             }
+
+            System.out.println(outputFile.getName());
+            Workbook rwb = Workbook.getWorkbook(outputFile);
+            File tempfile = new File(path+File.separator+"tempfile.xls");
+            wwb = Workbook.createWorkbook(tempfile,rwb);
 
             //获取当前工作表量，并在最后一张表后，新建一张表存放数据
             int sheetNumber = rwb.getNumberOfSheets();
-            System.out.println(sheetNumber);
-            WritableSheet sheet = wwb.createSheet("第"+(sheetNumber+1)+"次报警",sheetNumber);
+            sheet = wwb.createSheet("第"+(sheetNumber+1)+"次报警",sheetNumber);
+
+
 
             //写入title
             for (String key : titleMap.keySet()) {
@@ -122,7 +127,6 @@ public class ExcelUtils {
             }
             wwb.write();
             wwb.close();
-            rwb.close();
             outputFile.delete();
             tempfile.renameTo(outputFile);
         } catch (IOException e) {

@@ -72,13 +72,19 @@ public class MailService {
             folder.open(Folder.READ_ONLY);
             Message[] messages = folder.getMessages();
             int count = messages.length;
-            for(int i = count-1;i>1000;i--){
-                if(messages[i].getSentDate().getTime()>=date.getTime() && "知识图谱数据报警".equals(messages[i].getSubject())){
-                    String messageContexts = messages[i].getContent().toString();
-                    LOG.debug(messageContexts);
-                    String[] messageContext = messageContexts.split("\n");
-                    for(int j=0;j<messageContext.length;j++){
-                        list.add(messageContext[j]);
+            for(int i = count-1;i>2000;i--){
+                if(messages[i].getSentDate().getTime()<date.getTime()){
+                    break;
+                }else{
+                    if("知识图谱数据报警".equals(messages[i].getSubject())){
+                        String messageContexts = messages[i].getContent().toString();
+                        LOG.debug(messageContexts+"------------是本次报警信息");
+                        String[] messageContext = messageContexts.split("\n");
+                        for(int j=0;j<messageContext.length;j++){
+                            list.add(messageContext[j]);
+                        }
+                    }else{
+                        LOG.debug(messages[i].getContent().toString()+"------------不是本次报警信息");
                     }
                 }
             }

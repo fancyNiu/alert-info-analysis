@@ -25,9 +25,9 @@
     "puhui.RiskFirstTrial":"puhui.risk_first_trial"
   },
   "mongo":{
-    "BlacklistDetailInfo":".BlacklistDetailInfo",
-    "BlacklistInfo":"BlocklistInfo",
-    "BlacklistInfoNegative":"BlocklistInfoNegative",
+    "BlacklistDetailInfo":"BlacklistDetailInfo",
+    "BlacklistInfo":"BlacklistInfo",
+    "BlacklistInfoNegative":"BlacklistInfoNegative",
     "P_load":"ApplyBasicInfo",
     "jiea.Ploan":"ApplyBasicInfo",
     "TmCusApplyLoan":"TmCusApplyLoan",
@@ -38,7 +38,7 @@
     "puhui.Address":"AddressInfo",
     "AddressInfo":"AddressInfo",
     "puhui.DecisionYsp":"RiskInfo",
-    "puhui.LendCustomerContact":"LendCustomerContact",
+    "puhui.LendCustomerContact":"UserContacts",
     "LendRepayRecord":"LendRepayRecord",
     "LendRequest":"ApplyBasicInfo",
     "puhui.LendReques":"ApplyBasicInfo",

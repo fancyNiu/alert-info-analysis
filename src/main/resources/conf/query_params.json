@@ -1,0 +1,9 @@
+{
+  "puhui_decision.decision_ysp":"decisionYspId",
+  "puhui.risk_company":"riskCompanyId",
+  "puhui.risk_face_trial":"riskFaceTrialId",
+  "puhui.risk_final_trial":"riskFinalTrialId",
+  "puhui.risk_first_trial":"riskFirstTrialId",
+  "puhui.lend_customer":"userId",
+  "jiea.user":"userId"
+}

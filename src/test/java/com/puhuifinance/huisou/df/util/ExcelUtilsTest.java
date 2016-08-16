@@ -2,6 +2,7 @@ package com.puhuifinance.huisou.df.util;
 
 import org.junit.Test;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -30,7 +31,9 @@ public class ExcelUtilsTest {
 
     @Test
     public void writeExcelTest(){
-        String filePath = "alert_message/20160810.xls";
+        //String filePath = "alert_message"+File.separator+"20160817.xls";
+        String filePath = "D:\\git\\alert-info-analysis\\alert_message\\20160818.xls";
+//        String filePath = "alert_message/20160817.xls";
         List list = new ArrayList();
         Map<String,String> map = new HashMap<String,String>();
         map.put("报警时间","1");

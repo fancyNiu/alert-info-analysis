@@ -18,11 +18,9 @@ public class MongoDBDAOTest {
         Map<String,String> queryParams = new HashMap<String,String>();
         List<String> resultList = new ArrayList<String>();
         Map<String,String> resultMap = new HashMap<String, String>();
-        queryParams.put("id","34");
-        queryParams.put("updateTime","2015-04-15 22:03:00");
-        resultList.add("updateTime");
-        resultList.add("transfer_date");
-        resultMap = dao.query("df", "ApplyBasicInfo", queryParams, resultList);
+        queryParams.put("id","6950868");
+//        queryParams.put("updateTime","2016-08-09 12:02:49 ");
+        resultMap = dao.query("df", "TmCusApplyLoan", queryParams);
 
         for(String key : resultMap.keySet()){
             System.out.println(key+"--->"+resultMap.get(key));
